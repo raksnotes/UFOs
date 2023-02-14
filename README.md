@@ -2,6 +2,8 @@
 
 For the app_1.js file, I had referenced the video hint in the challenge instructions as well as my original app.js file to help out with the filterTable() and updateFilters() functions in terms of learning and applying how to update filters based on certain criteria, like stated in the instructions, however wasn't able to finish the assignment (Deliverable 1) completely. 
 
+For updated app.js, please reference app_1.js in files. 
+
 DELIVERABLE 1: 
 
 As shown below: the first part of instructions' output came out correctly based on module work: 
